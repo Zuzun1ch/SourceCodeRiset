@@ -1,0 +1,7 @@
+,MRR,P@5,R@5
+TF-IDF (tanpa NER),0.8516,0.7077,0.3161
+SBERT (tanpa NER),0.602,0.3846,0.1788
+"Hibrida (tanpa NER, a=0.1)",0.8553,0.7026,0.3168
+TF-IDF (dengan NER),0.8559,0.7077,0.334
+SBERT (dengan NER),0.7338,0.4308,0.1864
+"Hibrida (dengan NER, a=0.4)",0.8622,0.6769,0.2972

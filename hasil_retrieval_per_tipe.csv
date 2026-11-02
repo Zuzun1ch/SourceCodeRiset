@@ -1,0 +1,25 @@
+Tipe pertanyaan,Metode,n,MRR,P@5,R@5
+jenis,TF-IDF (tanpa NER),4.0,1.0,1.0,0.083
+jenis,SBERT (tanpa NER),4.0,0.311,0.3,0.02
+jenis,Hibrida (tanpa NER),4.0,1.0,0.95,0.078
+jenis,TF-IDF (NER),4.0,1.0,1.0,0.083
+jenis,SBERT (NER),4.0,0.75,0.55,0.038
+jenis,Hibrida (NER),4.0,1.0,0.95,0.078
+kandungan,TF-IDF (tanpa NER),8.0,0.938,0.775,0.2
+kandungan,SBERT (tanpa NER),8.0,0.524,0.375,0.071
+kandungan,Hibrida (tanpa NER),8.0,0.938,0.775,0.206
+kandungan,TF-IDF (NER),8.0,0.938,0.725,0.193
+kandungan,SBERT (NER),8.0,0.66,0.375,0.076
+kandungan,Hibrida (NER),8.0,0.938,0.675,0.17
+khasiat,TF-IDF (tanpa NER),18.0,0.925,0.833,0.286
+khasiat,SBERT (tanpa NER),18.0,0.712,0.522,0.153
+khasiat,Hibrida (tanpa NER),18.0,0.926,0.833,0.286
+khasiat,TF-IDF (NER),18.0,0.925,0.856,0.291
+khasiat,SBERT (NER),18.0,0.829,0.567,0.162
+khasiat,Hibrida (NER),18.0,0.931,0.833,0.278
+kombinasi,TF-IDF (tanpa NER),9.0,0.563,0.267,0.583
+kombinasi,SBERT (tanpa NER),9.0,0.581,0.156,0.398
+kombinasi,Hibrida (tanpa NER),9.0,0.577,0.267,0.583
+kombinasi,TF-IDF (NER),9.0,0.582,0.267,0.657
+kombinasi,SBERT (NER),9.0,0.602,0.156,0.398
+kombinasi,Hibrida (NER),9.0,0.597,0.244,0.546

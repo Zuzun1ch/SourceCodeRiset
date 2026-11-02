@@ -1,0 +1,12 @@
+python-telegram-bot>=21.0
+python-dotenv
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+pandas
+google-genai
+PySastrawi
+fastapi
+uvicorn[standard]

@@ -1,0 +1,588 @@
+doc_id,label,text,spans
+1,KANDUNGAN,"kunci, kunyit, pinang muda parabes",kunci | kunyit | pinang muda parabes
+1,JENIS,pil,pil
+2,KANDUNGAN,"kunci, kunyit, pinang muda parabes",kunci | kunyit | pinang muda parabes
+2,JENIS,pil,pil
+3,KANDUNGAN,"kunyit, daun sirih, delima putih",kunyit | daun sirih | delima putih
+3,JENIS,pil,pil
+4,KANDUNGAN,"daun sirih, kunyit, kulit manggis, kunci, pinang muda",daun sirih | kunyit | kulit manggis | kunci | pinang muda
+4,JENIS,pil,pil
+5,KANDUNGAN,"temulawak , jahe",temulawak | jahe
+5,JENIS,pil,pil
+6,KANDUNGAN,"kunyit, kunci",kunyit | kunci
+6,JENIS,pil,pil
+7,KANDUNGAN,"daun katule,kedawung, morinya, kulit manggis, temu ireng",daun katule | kedawung | morinya | kulit manggis | temu ireng
+7,JENIS,pil,pil
+8,KANDUNGAN,"manjakani, daun sirih, pinang muda, air kapur sirih",manjakani | daun sirih | pinang muda | air kapur sirih
+8,JENIS,pil,pil
+9,KANDUNGAN,"kayu gaharu, sentok",kayu gaharu | sentok
+9,JENIS,cair,cair
+10,KANDUNGAN,"temu gunung, daun sirih",temu gunung | daun sirih
+10,JENIS,serbuk,serbuk
+11,KANDUNGAN,"daun sirih, air kapur sirih, kunci",daun sirih | air kapur sirih | kunci
+11,JENIS,cair,cair
+12,KANDUNGAN,"minyak zaitun, daun sirihair kapur sirih, essence",minyak zaitun | daun sirihair kapur sirih | essence
+12,JENIS,cair,cair
+13,KANDUNGAN,"kayu gaharu, seccang, sentok, temu gunung, pandiyan",kayu gaharu | seccang | sentok | temu gunung | pandiyan
+13,JENIS,serbuk,serbuk
+14,KANDUNGAN,"jamu asi, param atas, param bawah, cebokan, dupa, godokan temulawak, jamu 40hari tapel pales",jamu asi | param atas | param bawah | cebokan | dupa | godokan temulawak | jamu 40hari tapel pales
+14,JENIS,pil,pil
+15,KANDUNGAN,"lulur rempah, mandi rempah dupa, sabun keset, godokan rapetwangi, arfum rempah cemceman rambut",lulur rempah | mandi rempah dupa | sabun keset | godokan rapetwangi | arfum rempah cemceman rambut
+15,JENIS,serbuk,serbuk
+16,KANDUNGAN,"rapet wangi, empot, butiran delima, pancuran nikmat",rapet wangi | empot | butiran delima | pancuran nikmat
+16,JENIS,pil,pil
+17,KANDUNGAN,"kunyit, temu gunung sentok, temulawak",kunyit | temu gunung sentok | temulawak
+17,JENIS,pil,pil
+18,KANDUNGAN,"jeruk purut, sentok",jeruk purut | sentok
+18,JENIS,cair,cair
+19,KANDUNGAN,konsentrat lemak penyu air tawar,konsentrat lemak penyu air tawar
+19,JENIS,cair,cair
+20,KANDUNGAN,Ekstrak buah zaitun,Ekstrak buah zaitun
+20,JENIS,cair,cair
+21,KANDUNGAN,"panduyang, manyir, kulit jeruk perut",panduyang | manyir | kulit jeruk perut
+21,JENIS,serbuk,serbuk
+22,KANDUNGAN,"bengkoang, tepung beras",bengkoang | tepung beras
+22,JENIS,serbuk,serbuk
+23,KANDUNGAN,"lempuyang, laos, cabe jamu jahe merah, kencur, merica, ketumbar, sentok peok",lempuyang | laos | cabe jamu jahe merah | kencur | merica | ketumbar | sentok peok
+23,JENIS,pil,pil
+24,KANDUNGAN,"sambel loto, daun bawang, bawang putih",sambel loto | daun bawang | bawang putih
+24,JENIS,pil,pil
+25,KANDUNGAN,lempuyang,lempuyang
+25,JENIS,pil,pil
+26,KANDUNGAN,"jahe emprit, sentok, kayu manis, cengkeh, jeruk puru",jahe emprit | sentok | kayu manis | cengkeh | jeruk puru
+26,JENIS,cair,cair
+27,KANDUNGAN,"kunci, kunyit, pinang muda parabes, delima, sirih, temu kunci, adas manis, rempah",kunci | kunyit | pinang muda parabes | delima | sirih | temu kunci | adas manis | rempah
+27,JENIS,Serbuk dan pil,Serbuk dan pil
+28,KANDUNGAN,bahan sehat lelaki + madu,bahan sehat lelaki | madu
+28,JENIS,selai,selai
+29,KANDUNGAN,"gingseng, pasak bumi, cabe jamu, jahe merah, temu ireng",gingseng | pasak bumi | cabe jamu | jahe merah | temu ireng
+29,JENIS,pil,pil
+30,KANDUNGAN,"madu, jintan hitam, jahe",madu | jintan hitam | jahe
+30,JENIS,pil,pil
+31,KANDUNGAN,"daun salam, temu ireng, kunyit, bawang putih",daun salam | temu ireng | kunyit | bawang putih
+31,JENIS,pil,pil
+32,KANDUNGAN,"sehat lelaki, ma'jun aktivitas",sehat lelaki | ma'jun aktivitas
+32,JENIS,Serbuk dan pil,Serbuk dan pil
+33,KANDUNGAN,"Sirih, Kunyit, Jahe, Kencur, Temulawak",Sirih | Kunyit | Jahe | Kencur | Temulawak
+33,JENIS,cair dan serbuk,cair dan serbuk
+34,KANDUNGAN,Rempah,Rempah
+34,JENIS,serbuk,serbuk
+35,KANDUNGAN,Herbal,Herbal
+35,JENIS,pil,pil
+36,KANDUNGAN,Rempah-rempah,Rempah-rempah
+36,JENIS,pil,pil
+37,KANDUNGAN,rempah,rempah
+37,JENIS,pil,pil
+38,KANDUNGAN,rempah,rempah
+38,JENIS,cair,cair
+39,KANDUNGAN,Rempah - Rempah,Rempah - Rempah
+39,JENIS,serbuk,serbuk
+40,KANDUNGAN,Rempah-rempah,Rempah-rempah
+40,JENIS,pil,pil
+41,KANDUNGAN,Rempah-rempah,Rempah-rempah
+41,JENIS,serbuk,serbuk
+42,KANDUNGAN,"Sirih, Kunyit, Meniran, Pare, ketumbar, kencur, adas manis, sambiloto, secang",Sirih | Kunyit | Meniran | Pare | ketumbar | kencur | adas manis | sambiloto | secang
+42,JENIS,pil,pil
+43,KANDUNGAN,"Temu Kunci, Temu Lawak, Sirih, Lengkuas, Partai Cina, Adas Manis, Delima, Asam Gelugur",Temu Kunci | Temu Lawak | Sirih | Lengkuas | Partai Cina | Adas Manis | Delima | Asam Gelugur
+43,JENIS,pil,pil
+44,KANDUNGAN,"Kubeba, Jahe, Jintan hitam, kemukus, kapulaga, jintan putih, fenugreek",Kubeba | Jahe | Jintan hitam | kemukus | kapulaga | jintan putih | fenugreek
+44,JENIS,pil,pil
+45,KANDUNGAN,"Ek Quercus Lusitanica, Terminalia Chebula, delima, sirih, temu kunci, adas manis",Ek Quercus Lusitanica | Terminalia Chebula | delima | sirih | temu kunci | adas manis
+45,JENIS,pil,pil
+46,KANDUNGAN,"Kubeba, Lengkuas, Lada Jawa, jahe, jintan putih",Kubeba | Lengkuas | Lada Jawa | jahe | jintan putih
+46,JENIS,pil,pil
+47,KANDUNGAN,"Kubeba, Jahe, Jintan Hitam, Kemukus, Kapulaga, Jintan Putih, Fenugreek",Kubeba | Jahe | Jintan Hitam | Kemukus | Kapulaga | Jintan Putih | Fenugreek
+47,JENIS,kapsul,kapsul
+48,KANDUNGAN,"Temu lawak, adas manis, lengkuas, temu kunci, delima,jintan hitam",Temu lawak | adas manis | lengkuas | temu kunci | delima | jintan hitam
+48,JENIS,pil,pil
+49,KANDUNGAN,"Oak Lusitanica Lamk, Terminalia Chebula, delima, sirih, temu kunci, adas manis",Oak Lusitanica Lamk | Terminalia Chebula | delima | sirih | temu kunci | adas manis
+49,JENIS,kapsul,kapsul
+50,KANDUNGAN,"lengkuas, jintan hitam, kapulaga, petai cina, adas manis, temu lawak, jahe",lengkuas | jintan hitam | kapulaga | petai cina | adas manis | temu lawak | jahe
+50,JENIS,pil,pil
+51,KANDUNGAN,"curcuma mangae rhizoma, acorus lalamus, alil sativi bulbus, rempah lain",curcuma mangae rhizoma | acorus lalamus | alil sativi bulbus | rempah lain
+51,JENIS,serbuk,serbuk
+52,KANDUNGAN,"kaemferia pandurata roxb, curcuma xanthorhiza roxb, piper betle linn, cinnomum galanga L, Parkia roxi Burghii, foeniculum vulgar, punica granatum linn, guarzuma ulmifolia lamk",kaemferia pandurata roxb | curcuma xanthorhiza roxb | piper betle linn | cinnomum galanga L | Parkia roxi Burghii | foeniculum vulgar | punica granatum linn | guarzuma ulmifolia lamk
+52,JENIS,pil,pil
+53,KANDUNGAN,"Zengiber Officinale ROSC, Nigela sativa Linn, Trigomnella Foenum Graecum, piper cubeba, Foeniculum vulgare mill, piper retro fractum vahl",Zengiber Officinale ROSC | Nigela sativa Linn | Trigomnella Foenum Graecum | piper cubeba | Foeniculum vulgare mill | piper retro fractum vahl
+53,JENIS,cair,cair
+54,KANDUNGAN,Terbuat dari ekstrak Sari Temu Giring.,Terbuat dari ekstrak Sari Temu Giring
+54,JENIS,serbuk,serbuk
+55,KANDUNGAN,"Daun Kacip Fatimah, gambir, kulit palamelia, daun sirih, rimpang kunyit",Daun Kacip Fatimah | gambir | kulit palamelia | daun sirih | rimpang kunyit
+55,JENIS,pil,pil
+56,KANDUNGAN,"Temu Kunci, Kayu Manis, Bibhitaki, gambir",Temu Kunci | Kayu Manis | Bibhitaki | gambir
+56,JENIS,pil,pil
+57,KANDUNGAN,"konyingar, delingu, masoji, sentok, prabas, adas, pulosari",konyingar | delingu | masoji | sentok | prabas | adas | pulosari
+57,JENIS,pil,pil
+58,KANDUNGAN,"jahe, kunyit, temulawak, daun sirih, tumbar, pala, cengkeh",jahe | kunyit | temulawak | daun sirih | tumbar | pala | cengkeh
+58,JENIS,serbuk,serbuk
+59,KANDUNGAN,"beras kencur, kunyit,jahe",beras kencur | kunyit | jahe
+59,JENIS,pil,pil
+60,KANDUNGAN,"bawang putiih, daun sendok",bawang putiih | daun sendok
+60,JENIS,pil,pil
+61,KANDUNGAN,"Adas, pulosari, jahe dll",Adas | pulosari | jahe dll
+61,JENIS,cair,cair
+62,KANDUNGAN,"Jahe, jintan hitam,kiji beling, muso dan kedewung, pinang muda, daun sirih, kulit jeruk",Jahe | jintan hitam | kiji beling | muso | kedewung | pinang muda | daun sirih | kulit jeruk
+62,JENIS,cair,cair
+63,KANDUNGAN,"Jahe, jintan hitam,kiji beling, muso dan kedewung, pinang muda, daun sirih, kulit jeruk, kayu rapet, majaan",Jahe | jintan hitam | kiji beling | muso | kedewung | pinang muda | daun sirih | kulit jeruk | kayu rapet | majaan
+63,JENIS,cair,cair
+64,KANDUNGAN,"jahe, adas, pulosari, muso, kedewung, temulawak",jahe | adas | pulosari | muso | kedewung | temulawak
+64,JENIS,cair,cair
+65,KANDUNGAN,"jahe, daun sirih, kulit jeruk, sambi roto, muso dan kedewung",jahe | daun sirih | kulit jeruk | sambi roto | muso | kedewung
+65,JENIS,cair,cair
+66,KANDUNGAN,"Adas, pulosari, muso , kedwung, daun sirih, kulit jeruk, kayu rapet, majaan, sambi roto",Adas | pulosari | muso | kedwung | daun sirih | kulit jeruk | kayu rapet | majaan | sambi roto
+66,JENIS,cair,cair
+67,KANDUNGAN,"kiji beling, jahe, muso , kedewung, daun sirih, kulit jeruk, dan pinang muda",kiji beling | jahe | muso | kedewung | daun sirih | kulit jeruk | pinang muda
+67,JENIS,cair,cair
+68,KANDUNGAN,"jahe emprit, seccang, akar alang-alang, biji pala, kapulaga, dan gula pasir",jahe emprit | seccang | akar alang-alang | biji pala | kapulaga | gula pasir
+68,JENIS,serbuk,serbuk
+69,KANDUNGAN,"habbatus sauda', pinang muda, bawang putih lanang, temu kunci dll",habbatus sauda' | pinang muda | bawang putih lanang | temu kunci dll
+69,JENIS,serbuk,serbuk
+70,KANDUNGAN,"kunyit, asam, daun sririh pilihan dll",kunyit | asam | daun sririh pilihan dll
+70,JENIS,serbuk,serbuk
+71,KANDUNGAN,"temu kunci, jahe, pinang muda, sirih, manjakani",temu kunci | jahe | pinang muda | sirih | manjakani
+71,JENIS,serbuk,serbuk
+72,KANDUNGAN,"jahe, kencur, daun bawang, bawang",jahe | kencur | daun bawang | bawang
+72,JENIS,serbuk,serbuk
+73,KANDUNGAN,"temulawak, kunyit, daum mimba, kedawung",temulawak | kunyit | daum mimba | kedawung
+73,JENIS,serbuk,serbuk
+74,KANDUNGAN,"daun sirih, kunyit, asam",daun sirih | kunyit | asam
+74,JENIS,serbuk,serbuk
+75,KANDUNGAN,"tangkur, pasak bumi, pinang muda, bawang lanang, jahe merah, rempah dll",tangkur | pasak bumi | pinang muda | bawang lanang | jahe merah | rempah dll
+75,JENIS,serbuk,serbuk
+76,KANDUNGAN,"jahe merah, gula, sereh, kayu manis, kapulaga, cengkeh",jahe merah | gula | sereh | kayu manis | kapulaga | cengkeh
+76,JENIS,serbuk,serbuk
+77,KANDUNGAN,"jahe emprit, gula, sereh, kayu manis, kapulaga, cengkeh",jahe emprit | gula | sereh | kayu manis | kapulaga | cengkeh
+77,JENIS,serbuk,serbuk
+78,KANDUNGAN,"temulawak, gula, sereh, kayu manis, kapulaga, cengkeh",temulawak | gula | sereh | kayu manis | kapulaga | cengkeh
+78,JENIS,serbuk,serbuk
+79,KANDUNGAN,"kunyit, gula, sereh, kayu manis, kapulaga, cengkeh",kunyit | gula | sereh | kayu manis | kapulaga | cengkeh
+79,JENIS,serbuk,serbuk
+80,KANDUNGAN,"kopi, pinang muda, kapulaga, jahe",kopi | pinang muda | kapulaga | jahe
+80,JENIS,serbuk,serbuk
+81,KANDUNGAN,"jahe, kunyit, sereh, cengkeh, gula merah",jahe | kunyit | sereh | cengkeh | gula merah
+81,JENIS,cair,cair
+82,KANDUNGAN,"kunyit, asam, jahe, gula pasir, madu",kunyit | asam | jahe | gula pasir | madu
+82,JENIS,cair,cair
+83,KANDUNGAN,"kunyit, jahe, temukunci, biji manjakani, pinang muda, sirih, kayu rapat, gula",kunyit | jahe | temukunci | biji manjakani | pinang muda | sirih | kayu rapat | gula
+83,JENIS,cair,cair
+84,KANDUNGAN,"kopi, pinang muda, kapulaga, jahe",kopi | pinang muda | kapulaga | jahe
+84,JENIS,cair,cair
+85,KANDUNGAN,"Ramuan Andrografis 30%, Ortosifon 20%, Rimpang Imperatae 20%,Rimpang Temulawak 20%, Ramuan Centellae 10%",Ramuan Andrografis 30% | Ortosifon 20% | Rimpang Imperatae 20% | Rimpang Temulawak 20% | Ramuan Centellae 10%
+85,JENIS,pil,pil
+86,KANDUNGAN,"kunyit, temu gunung sentok, temulawak",kunyit | temu gunung sentok | temulawak
+86,JENIS,pil,pil
+87,KANDUNGAN,"daun ungu, kunyit, centella",daun ungu | kunyit | centella
+87,JENIS,pil,pil
+88,KANDUNGAN,"daun lada 50 mg, rimpang kunyit 50mg, Bawang Putih 50 mg, Rimpang Temu Kunci 30 mg, buah adas 20mg",daun lada 50 mg | rimpang kunyit 50mg | Bawang Putih 50 mg | Rimpang Temu Kunci 30 mg | buah adas 20mg
+88,JENIS,pil,pil
+89,KANDUNGAN,"daun guazuma 30%, korteks parameria 20%, rimpang jahe 20%, Rimpang Boesenbegia 15%, rimpang kunyit 15%",daun guazuma 30% | korteks parameria 20% | rimpang jahe 20% | Rimpang Boesenbegia 15% | rimpang kunyit 15%
+89,JENIS,pil,pil
+90,KANDUNGAN,"pabrik adas biasa 10%, alyxia stellata 10%,Parameria Berambut 15%, Temu Kunci Angustifolia Roscoe 40%, Temu Ireng Roxb",pabrik adas biasa 10% | alyxia stellata 10% | Parameria Berambut 15% | Temu Kunci Angustifolia Roscoe 40% | Temu Ireng Roxb
+90,JENIS,pil,pil
+91,KANDUNGAN,"Areca Catechu Fructus, Citrus Sinensis Fructus Cortex, Mel Depuratum, Quercus Infectoria Fructus",Areca Catechu Fructus | Citrus Sinensis Fructus Cortex | Mel Depuratum | Quercus Infectoria Fructus
+91,JENIS,serbuk,serbuk
+92,KANDUNGAN,"Ketumbar 25%, Seledri 5%, Kumis Kucing 25%, Bunga Matahari Liar B 25%",Ketumbar 25% | Seledri 5% | Kumis Kucing 25% | Bunga Matahari Liar B 25%
+92,JENIS,pil,pil
+93,KANDUNGAN,"beras, bengkoang",beras | bengkoang
+93,JENIS,serbuk,serbuk
+94,KANDUNGAN,"Kunyit 25%, dll",Kunyit 25% | dll
+94,JENIS,pil,pil
+95,KANDUNGAN,"Kunyit 50%, Jintan Hitam 25%, Lada Hitam 25%, Sirih 50%, Anggrek Lidah Ular 50%",Kunyit 50% | Jintan Hitam 25% | Lada Hitam 25% | Sirih 50% | Anggrek Lidah Ular 50%
+95,JENIS,pil,pil
+96,KANDUNGAN,"Areca Catechu Fructus, Citrus Sinensis Fructus Cortex, Mel Depuratum, Quercus Infectoria Fructus",Areca Catechu Fructus | Citrus Sinensis Fructus Cortex | Mel Depuratum | Quercus Infectoria Fructus
+96,JENIS,pil,pil
+97,KANDUNGAN,"susu, kunyit, vitamin",susu | kunyit | vitamin
+97,JENIS,serbuk,serbuk
+98,KANDUNGAN,"kunyit 30%, bawang putih 20%, Kayu Manis Sintok 10%, Jahe Aromatik 30%, Lada Hitam 10%",kunyit 30% | bawang putih 20% | Kayu Manis Sintok 10% | Jahe Aromatik 30% | Lada Hitam 10%
+98,JENIS,pil,pil
+99,KANDUNGAN,"Pegagan 15%, Kumis Kucing 15%, Kunyit 50%, Jahe 20%",Pegagan 15% | Kumis Kucing 15% | Kunyit 50% | Jahe 20%
+99,JENIS,pil,pil
+100,KANDUNGAN,"Rimpang Boesenbergia 30%, Korteks Parameria 20%, Kulit Buah Delima 20%, Rimpang Kunyit 20%, Rimpang Temu Kunci 10%",Rimpang Boesenbergia 30% | Korteks Parameria 20% | Kulit Buah Delima 20% | Rimpang Kunyit 20% | Rimpang Temu Kunci 10%
+100,JENIS,pil,pil
+101,KANDUNGAN,"Baeckea Frutescens Folium, Curcuma Longa Rhizoma, Curcuma Xanthorriza Rhizoma",Baeckea Frutescens Folium | Curcuma Longa Rhizoma | Curcuma Xanthorriza Rhizoma
+101,JENIS,krim,krim
+102,KANDUNGAN,"Baeckea Frutescens Folium, Curcuma Longa Rhizoma, Curcuma Xanthorriza Rhizoma",Baeckea Frutescens Folium | Curcuma Longa Rhizoma | Curcuma Xanthorriza Rhizoma
+102,JENIS,pil,pil
+103,KANDUNGAN,"Citrus Hystric Cortex Ekstrak, Coriandrum Sativum Semen Ekstrak, Curcuma Xanthorrhiza Rhizoma Ekstrak",Citrus Hystric Cortex Ekstrak | Coriandrum Sativum Semen Ekstrak | Curcuma Xanthorrhiza Rhizoma Ekstrak
+103,JENIS,pil,pil
+104,KANDUNGAN,"kulit batang delima, kayu rapet, majakani",kulit batang delima | kayu rapet | majakani
+104,JENIS,pil,pil
+105,KANDUNGAN,"pabrik adas biasa, alyxia stellata, Parameria Berambut, Temu Kunci Angustifolia Roscoe, Temu Ireng Roxb",pabrik adas biasa | alyxia stellata | Parameria Berambut | Temu Kunci Angustifolia Roscoe | Temu Ireng Roxb
+105,JENIS,pil,pil
+106,KANDUNGAN,"Biji Pinang 20%, Rimpang Terminalia 20%, Biji Cuscuta 30%,Bahan Lainnya sampai 100%",Biji Pinang 20% | Rimpang Terminalia 20% | Biji Cuscuta 30% | Bahan Lainnya sampai 100%
+106,JENIS,pil,pil
+107,KANDUNGAN,"jahe , kunyit, temulawak",jahe | kunyit | temulawak
+107,JENIS,pil,pil
+108,KANDUNGAN,"serbuk mineral, ekstrak gardenia, ekstrak langsat",serbuk mineral | ekstrak gardenia | ekstrak langsat
+108,JENIS,cair,cair
+109,KANDUNGAN,jinten hitam,jinten hitam
+109,JENIS,kapsul,kapsul
+110,KANDUNGAN,"seledri, kencur, jahe, gula",seledri | kencur | jahe | gula
+110,JENIS,serbuk,serbuk
+111,KANDUNGAN,"kunyit, asem, gula",kunyit | asem | gula
+111,JENIS,serbuk,serbuk
+112,KANDUNGAN,temulawak dan gula,temulawak | gula
+112,JENIS,serbuk,serbuk
+113,KANDUNGAN,"beras, kencur, gula",beras | kencur | gula
+113,JENIS,cair,cair
+114,KANDUNGAN,"daun sirih, pinang, kunci pepet, gula",daun sirih | pinang | kunci pepet | gula
+114,JENIS,serbuk,serbuk
+115,KANDUNGAN,"jahe, kayu manis, serai, gula aren",jahe | kayu manis | serai | gula aren
+115,JENIS,cair,cair
+116,KANDUNGAN,"bunga telang, gula",bunga telang | gula
+116,JENIS,cair,cair
+117,KANDUNGAN,"jahe merah, gula",jahe merah | gula
+117,JENIS,serbuk,serbuk
+118,KANDUNGAN,"Paramecia nigeria 40mg, Temulawak hitam atau temulawak biru 40mg, Galalit 40mg, Madu abe/asli 220mg, Natrium benzoat",Paramecia nigeria 40mg | Temulawak hitam atau temulawak biru 40mg | Galalit 40mg | Madu abe | asli 220mg | Natrium benzoat
+118,JENIS,pil,pil
+119,KANDUNGAN,Cassia Angustifolia Folium,Cassia Angustifolia Folium
+119,JENIS,pil,pil
+120,KANDUNGAN,"flore insertus, venerable aerospace, kunyit putih dll",flore insertus | venerable aerospace | kunyit putih dll
+120,JENIS,pil,pil
+121,KANDUNGAN,"tembakau, temulawak hitam, kunyit, cubeba",tembakau | temulawak hitam | kunyit | cubeba
+121,JENIS,kapsul,kapsul
+122,KANDUNGAN,"Areca Catechu Fructus, Boesenbergia Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Curcuma Longa Rhizoma, Kaempferia Rotunda Rhizoma, Parameria Laevigata Cortex, Punica Granatum Fructus, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Uncaria Gambir Fructus",Areca Catechu Fructus | Boesenbergia Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Curcuma Longa Rhizoma | Kaempferia Rotunda Rhizoma | Parameria Laevigata Cortex | Punica Granatum Fructus | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Uncaria Gambir Fructus
+122,JENIS,pil,pil
+123,KANDUNGAN,"Areca Catechu Fructus, Boesenbergia Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Curcuma Longa Rhizoma, Kaempferia Rotunda Rhizoma, Parameria Laevigata Cortex, Punica Granatum Fructus, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Uncaria Gambir Fructus",Areca Catechu Fructus | Boesenbergia Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Curcuma Longa Rhizoma | Kaempferia Rotunda Rhizoma | Parameria Laevigata Cortex | Punica Granatum Fructus | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Uncaria Gambir Fructus
+123,JENIS,pil,pil
+124,KANDUNGAN,"galalit, kunyit, temulawak hitam, kencur putih",galalit | kunyit | temulawak hitam | kencur putih
+124,JENIS,pil,pil
+125,KANDUNGAN,"galalit, temulawak hitam, kencur putih, dll",galalit | temulawak hitam | kencur putih | dll
+125,JENIS,pil,pil
+126,KANDUNGAN,"manjakani, jinten hitam, jinten putih dll s/d 100%",manjakani | jinten hitam | jinten putih dll s | d 100%
+126,JENIS,pil,pil
+127,KANDUNGAN,"akar jahe, biji sirih kuning, jinten putih, madu raja dll sampai 100%",akar jahe | biji sirih kuning | jinten putih | madu raja dll sampai 100%
+127,JENIS,pil,pil
+128,KANDUNGAN,"Biji Sirih (Piper betle), Biji Sirih Hutan (Boesenbergia rotunda), Biji Kunyit (Curcuma longa),Biji Kabesak (Piper cubeba)",Biji Sirih (Piper betle) | Biji Sirih Hutan (Boesenbergia rotunda) | Biji Kunyit (Curcuma longa) | Biji Kabesak (Piper cubeba)
+128,JENIS,pil,pil
+129,KANDUNGAN,"125mg Biji Ek Quercus indica, 62,5mg Biji Pinang (Areca catechu), 10mg Kulit Buah Jeruk, 41mg Madu Murni yang Diproses",125mg Biji Ek Quercus indica | 62 | 5mg Biji Pinang (Areca catechu) | 10mg Kulit Buah Jeruk | 41mg Madu Murni yang Diproses
+129,JENIS,pil,pil
+130,KANDUNGAN,"Coriandri Fructus, Centellae Herba, Imperatae Rhizoma, Amomi Fructus, Languatis Rhizoma, Curcumae domesticae Rhizoma, Zingiberis aromaticae Rhizoma, Burmani Cortex, dan Andrographidis Herba.",Coriandri Fructus | Centellae Herba | Imperatae Rhizoma | Amomi Fructus | Languatis Rhizoma | Curcumae domesticae Rhizoma | Zingiberis aromaticae Rhizoma | Burmani Cortex | Andrographidis Herba
+130,JENIS,pil,pil
+131,KANDUNGAN,"Ramuan Andrografis, Ortosifon, Rimpang Imperatae, Rimpang Temulawak, Ramuan Centellae",Ramuan Andrografis | Ortosifon | Rimpang Imperatae | Rimpang Temulawak | Ramuan Centellae
+131,JENIS,pil,pil
+132,KANDUNGAN,"Areca Catechu Fructus, Citrus Sinensis Fructus Cortex, Mel Depuratum, Quercus Infectoria Fructus",Areca Catechu Fructus | Citrus Sinensis Fructus Cortex | Mel Depuratum | Quercus Infectoria Fructus
+132,JENIS,pil,pil
+133,KANDUNGAN,"Boesenbergiae Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Kaempferia Angustifolia Rhizoma, Parameria Laevigata Cortex, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Terminalia Chebulia Fructus",Boesenbergiae Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Kaempferia Angustifolia Rhizoma | Parameria Laevigata Cortex | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Terminalia Chebulia Fructus
+133,JENIS,pil,pil
+134,KANDUNGAN,"Kayu parameria atau kayu putih, Temulawak hitam atau temulawak biru, Galalit, dll hingga 100%",Kayu parameria atau kayu putih | Temulawak hitam atau temulawak biru | Galalit | dll hingga 100%
+134,JENIS,pil,pil
+135,KANDUNGAN,"Galalit, Temulawak hitam atau temulawak biru, Kencur asli atau kencur putih",Galalit | Temulawak hitam atau temulawak biru | Kencur asli atau kencur putih
+135,JENIS,pil,pil
+136,KANDUNGAN,"Likoris, Temulawak hitam, Kayu manis asli, dll",Likoris | Temulawak hitam | Kayu manis asli | dll
+136,JENIS,pil,pil
+137,KANDUNGAN,"Baeckea Frutescens Folium, Curcuma Longa Rhizoma, Curcuma Xanthorriza Rhizoma, Elephantopus Scaber Folium, Foeniculum Vulgare Fructus, Helicteres Isora Fructus, Melastoma Malabathricum Folium, Parkia Roxburghii Semen, Phyllanthus Urinaria Linn",Baeckea Frutescens Folium | Curcuma Longa Rhizoma | Curcuma Xanthorriza Rhizoma | Elephantopus Scaber Folium | Foeniculum Vulgare Fructus | Helicteres Isora Fructus | Melastoma Malabathricum Folium | Parkia Roxburghii Semen | Phyllanthus Urinaria Linn
+137,JENIS,cair,cair
+138,KANDUNGAN,"Ek Quercus Lusitanica, Terminalia Chebula, delima, sirih, temu kunci, adas manis",Ek Quercus Lusitanica | Terminalia Chebula | delima | sirih | temu kunci | adas manis
+138,JENIS,serbuk,serbuk
+139,KANDUNGAN,"Boesenbergiae Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Kaempferia Angustifolia Rhizoma, Parameria Laevigata Cortex, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Terminalia Chebulia Fructus",Boesenbergiae Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Kaempferia Angustifolia Rhizoma | Parameria Laevigata Cortex | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Terminalia Chebulia Fructus
+139,JENIS,pil,pil
+140,KANDUNGAN,"kunyit, temu gunung sentok, temulawak",kunyit | temu gunung sentok | temulawak
+140,JENIS,selai,selai
+141,KANDUNGAN,"gaharu, melati, kasturi, kulit jeruk, dll",gaharu | melati | kasturi | kulit jeruk | dll
+141,JENIS,serbuk,serbuk
+142,KANDUNGAN,"akar wangi, temu lawak, pule sari, pucuk ganti, jeruk purut",akar wangi | temu lawak | pule sari | pucuk ganti | jeruk purut
+143,KANDUNGAN,"Alyxia Stellata Cortex, Areca Catechu Fructus, Curcuma Xanthorriza Rhizoma, Foeniculum Vulgare Fructus, Nigella Sativa Semen, Piper Retrofractum Fructus, Trigonella Foenum Graecum Semen, Zingiber Officinale Rhizoma, Zingiber Zerumbet Rhizoma",Alyxia Stellata Cortex | Areca Catechu Fructus | Curcuma Xanthorriza Rhizoma | Foeniculum Vulgare Fructus | Nigella Sativa Semen | Piper Retrofractum Fructus | Trigonella Foenum Graecum Semen | Zingiber Officinale Rhizoma | Zingiber Zerumbet Rhizoma
+143,JENIS,selai,selai
+144,KANDUNGAN,ekstrak lemak lintah papua,ekstrak lemak lintah papua
+144,JENIS,krim,krim
+145,KANDUNGAN,"Ekstrak daun carica/papaya, Ekstrak akar curcuma biru, Ekstrak akar kunyit, Ekstrak akar kencur asli, Ekstrak akar kunyit domestika",Ekstrak daun carica | papaya | Ekstrak akar curcuma biru | Ekstrak akar kunyit | Ekstrak akar kencur asli | Ekstrak akar kunyit domestika
+145,JENIS,kapsul,kapsul
+146,KANDUNGAN,"Ekstrak biji jintan hitam, kstrak kulit kayu massalah, Ekstrak biji ketumbar, Ekstrak kulit pohon paramaria",Ekstrak biji jintan hitam | kstrak kulit kayu massalah | Ekstrak biji ketumbar | Ekstrak kulit pohon paramaria
+146,JENIS,kapsul,kapsul
+147,KANDUNGAN,"Rumput kampung hitam, Temulawak Cina atau ijo, Salam gajah atau kayu salam, Jintan hitam, Cengkih asli atau kencur",Rumput kampung hitam | Temulawak Cina atau ijo | Salam gajah atau kayu salam | Jintan hitam | Cengkih asli atau kencur
+147,JENIS,serbuk,serbuk
+148,KANDUNGAN,"daun carica/papaya, akar carica/papaya, akar curcuma biru, akar jahe, akar kunyit, biji koffe/kopi",daun carica | papaya | akar carica | papaya | akar curcuma biru | akar jahe | akar kunyit | biji koffe | kopi
+148,JENIS,serbuk,serbuk
+149,KANDUNGAN,"beras, bengkoang",beras | bengkoang
+149,JENIS,serbuk,serbuk
+150,KANDUNGAN,"manjakani, delima, kunci",manjakani | delima | kunci
+150,JENIS,serbuk,serbuk
+151,KANDUNGAN,"Buah Sirih Hutan (Boesenbergia rotunda), Buah Pinang (Areca catechu), Daun Sirih (Piper betle)",Buah Sirih Hutan (Boesenbergia rotunda) | Buah Pinang (Areca catechu) | Daun Sirih (Piper betle)
+151,JENIS,kapsul,kapsul
+152,KANDUNGAN,"temulawak, temu ireng",temulawak | temu ireng
+152,JENIS,serbuk,serbuk
+153,KANDUNGAN,"temulawak, kunyit,temu ireng, jahe, daun beluntas, daun serat, daun sirih, daun pepaya, daun asam, kasimbu'an",temulawak | kunyit | temu ireng | jahe | daun beluntas | daun serat | daun sirih | daun pepaya | daun asam | kasimbu'an
+153,JENIS,serbuk,serbuk
+154,KANDUNGAN,"jahe, temulawak, temu ireng, kunyit, pinang muda",jahe | temulawak | temu ireng | kunyit | pinang muda
+154,JENIS,serbuk,serbuk
+155,KANDUNGAN,"temulawak, kunyit, manjakani, jelebi, jekkeleng",temulawak | kunyit | manjakani | jelebi | jekkeleng
+155,JENIS,serbuk,serbuk
+156,KANDUNGAN,"temu ireng, temulawak sambiroto",temu ireng | temulawak sambiroto
+156,JENIS,serbuk,serbuk
+157,KANDUNGAN,"kopi, jahe",kopi | jahe
+157,JENIS,serbuk,serbuk
+158,KANDUNGAN,"menyan, gula batu",menyan | gula batu
+158,JENIS,serbuk,serbuk
+159,KANDUNGAN,"Mentha Arvensia Volium, Sida Rhombifolia, Jatropha Curbas, Terminalis Semen, Zengeber Cassumber, dan Bahan-bahan lainnya",Mentha Arvensia Volium | Sida Rhombifolia | Jatropha Curbas | Terminalis Semen | Zengeber Cassumber | Bahan-bahan lainnya
+159,JENIS,pil,pil
+160,KANDUNGAN,"Citrus Hystric Cortex Ekstrak, Coriandrum Sativum Semen Ekstrak, Curcuma Xanthorrhiza Rhizoma Ekstrak, Kaempferia Galanga Rhizoma Ekstrak, Piper Betle Folium Ekstrak",Citrus Hystric Cortex Ekstrak | Coriandrum Sativum Semen Ekstrak | Curcuma Xanthorrhiza Rhizoma Ekstrak | Kaempferia Galanga Rhizoma Ekstrak | Piper Betle Folium Ekstrak
+160,JENIS,kapsul,kapsul
+161,KANDUNGAN,"Taenopha Curcas, Brasica Tunceace, Parameria Laevigata, Zingerber Cassumunar, dan Bahan-bahan lainnya",Taenopha Curcas | Brasica Tunceace | Parameria Laevigata | Zingerber Cassumunar | Bahan-bahan lainnya
+161,JENIS,kapsul,kapsul
+162,KANDUNGAN,"Alpina Galanga Rhizoma, Curcuma Xanthorrhiza Rhizoma, Kaemferia Galangae Rhizoma, Piper Nigrum Semen, Zingiber Purpureum Rhizoma",Alpina Galanga Rhizoma | Curcuma Xanthorrhiza Rhizoma | Kaemferia Galangae Rhizoma | Piper Nigrum Semen | Zingiber Purpureum Rhizoma
+162,JENIS,kapsul,kapsul
+163,KANDUNGAN,"elephantocus scaiber, andrographis paniculata, sida thombifolio, nigella siativa, kamferia galanga, dan Bahan-bahan lainnya",elephantocus scaiber | andrographis paniculata | sida thombifolio | nigella siativa | kamferia galanga | Bahan-bahan lainnya
+163,JENIS,pil,pil
+164,KANDUNGAN,"Dececories Tubes, Parkies Semar, Piper Nigrum Tructus, Burnani Corex, Eurycomes Radik, Alyxies Corex, dan Bahan-bahan lainnya",Dececories Tubes | Parkies Semar | Piper Nigrum Tructus | Burnani Corex | Eurycomes Radik | Alyxies Corex | Bahan-bahan lainnya
+164,JENIS,pil,pil
+165,KANDUNGAN,"Guazumae Follum, Foenigraeci Semen, Massola Aromatica, Nigallae Semen, dan Bahan-bahan lainnya",Guazumae Follum | Foenigraeci Semen | Massola Aromatica | Nigallae Semen | Bahan-bahan lainnya
+165,JENIS,kapsul,kapsul
+166,KANDUNGAN,"Rauwolfiae Radix, Zingerber Cassumunar, Sappan Lignum, Andrographis Paniculata, Lichen Dasypogus, dan Bahan-bahan lainnya",Rauwolfiae Radix | Zingerber Cassumunar | Sappan Lignum | Andrographis Paniculata | Lichen Dasypogus | Bahan-bahan lainnya
+166,JENIS,kapsul,kapsul
+167,KANDUNGAN,"Granati Cortex, Caryophylli Fios, Alil Sativi Bulbus, Parameriae Cortex, Peperis Folium",Granati Cortex | Caryophylli Fios | Alil Sativi Bulbus | Parameriae Cortex | Peperis Folium
+167,JENIS,pil,pil
+168,KANDUNGAN,"curcumae xanthorriza mizome ekstrak, foeniculum vulgare semen ekstrak, citrus hystrix cortex ekstrak, alyxia stellata cortex ekstrak, areca catechu semen ekstrak",curcumae xanthorriza mizome ekstrak | foeniculum vulgare semen ekstrak | citrus hystrix cortex ekstrak | alyxia stellata cortex ekstrak | areca catechu semen ekstrak
+168,JENIS,kapsul,kapsul
+169,KANDUNGAN,"Rimpang Kunyit,Rimpang Kencur, Rimpang Jahe, Herba Sambiloto",Rimpang Kunyit | Rimpang Kencur | Rimpang Jahe | Herba Sambiloto
+169,JENIS,serbuk,serbuk
+170,KANDUNGAN,"10% Ekstrak Kopi Rempah, 15% Kulit Batang Kayu Manis (Cassia), 20% Daun Psidium",10% Ekstrak Kopi Rempah | 15% Kulit Batang Kayu Manis (Cassia) | 20% Daun Psidium
+170,JENIS,serbuk,serbuk
+171,KANDUNGAN,"15% Ekstrak Kopi Rempah, 10% Ekstrak Andrografis, 20% Ekstrak Akar Ginseng, 20% Ekstrak Rimpang Jahe Merah, Dan bahan lainnya hingga total 100%.",15% Ekstrak Kopi Rempah | 10% Ekstrak Andrografis | 20% Ekstrak Akar Ginseng | 20% Ekstrak Rimpang Jahe Merah | bahan lainnya hingga total 100%
+171,JENIS,serbuk,serbuk
+172,KANDUNGAN,"Madu Pahit, Sarang Burung Walet, Habbatus Saudah",Madu Pahit | Sarang Burung Walet | Habbatus Saudah
+172,JENIS,cair,cair
+173,KANDUNGAN,"Terbuat dari biji kedelai pilihan, sarang burung walet, pemanis alami dari sari bunga dan tebu, akar tanaman, dan bahan-bahan khsus lainnya yang 100 alami dan asli dari madura",Terbuat dari biji kedelai pilihan | sarang burung walet | pemanis alami dari sari bunga | tebu | akar tanaman | bahan-bahan khsus lainnya yang 100 alami | asli dari madura
+173,JENIS,serbuk,serbuk
+174,KANDUNGAN,"pegagan, rimpang jahe, rompang kunyit dan bahan herbal lainnya",pegagan | rimpang jahe | rompang kunyit | bahan herbal lainnya
+174,JENIS,serbuk,serbuk
+175,KANDUNGAN,daun sirih,daun sirih
+175,JENIS,cair,cair
+176,KANDUNGAN,bengkoang dan campuran ramuan,bengkoang | campuran ramuan
+176,JENIS,krim,krim
+177,KANDUNGAN,rempah-rempah asli arab,rempah-rempah asli arab
+177,JENIS,cair,cair
+178,KANDUNGAN,ekstrak daun sirih dan bahan bahan lain,ekstrak daun sirih | bahan bahan lain
+178,JENIS,cair,cair
+179,KANDUNGAN,"paramecia laevglata, boesenbergiae rotunda, dll",paramecia laevglata | boesenbergiae rotunda | dll
+179,JENIS,pil,pil
+180,KANDUNGAN,"kayu rapet, delima putih, ketumar dll",kayu rapet | delima putih | ketumar dll
+180,JENIS,pil,pil
+181,KANDUNGAN,"kunyit, daun sirih, dan rempah yang lain",kunyit | daun sirih | rempah yang lain
+181,JENIS,serbuk,serbuk
+182,KANDUNGAN,"madu, minyak zaitun, dan aneka rempah",madu | minyak zaitun | aneka rempah
+182,JENIS,pil,pil
+183,KANDUNGAN,"10% Kayu Secang, 10% Kulit Batang Kayu Manis (Cassia), 15% Buah Fomiculli (Pastikan penulisan yang benar), 10% Bunga Cengkeh, Dan bahan lainnya hingga total 100%.",10% Kayu Secang | 10% Kulit Batang Kayu Manis (Cassia) | 15% Buah Fomiculli (Pastikan penulisan yang benar) | 10% Bunga Cengkeh | bahan lainnya hingga total 100%
+183,JENIS,kapsul,kapsul
+184,KANDUNGAN,"kunyit, kapulaga, dll",kunyit | kapulaga | dll
+184,JENIS,kapsul,kapsul
+185,KANDUNGAN,"kunyit, temulawak, jahe, serai",kunyit | temulawak | jahe | serai
+185,JENIS,kapsul,kapsul
+186,KANDUNGAN,"daun sirih, majakani, dll",daun sirih | majakani | dll
+186,JENIS,kapsul,kapsul
+187,KANDUNGAN,"pinang, lada hitam, jahe, dll",pinang | lada hitam | jahe | dll
+187,JENIS,kapsul,kapsul
+188,KANDUNGAN,"jinten, kapulaga, cabe jamu, kencur dll",jinten | kapulaga | cabe jamu | kencur dll
+188,JENIS,cair,cair
+189,KANDUNGAN,"eksrak eurycoma longloia radix, zingber rhizoma, ekstrak yohimbe, ekstrak gingseng, ekstrak mranca fragara, ekstrak sariego, bahan bahan rahasia lainnya",eksrak eurycoma longloia radix | zingber rhizoma | ekstrak yohimbe | ekstrak gingseng | ekstrak mranca fragara | ekstrak sariego | bahan bahan rahasia lainnya
+189,JENIS,kapsul,kapsul
+190,KANDUNGAN,"biji pala, bawang putih, ketumbar, jahe",biji pala | bawang putih | ketumbar | jahe
+190,JENIS,selai,selai
+191,KANDUNGAN,"Citrus Hystrix Cortex, Coriandrum Sativum Semen Ekstrak, Curcuma Xanthorrizae Rhizoma Extract, Ekstrak Piper Bettle Folium, Kaempferia Galanga Rhizoma Ekstrak",Citrus Hystrix Cortex | Coriandrum Sativum Semen Ekstrak | Curcuma Xanthorrizae Rhizoma Extract | Ekstrak Piper Bettle Folium | Kaempferia Galanga Rhizoma Ekstrak
+191,JENIS,kapsul,kapsul
+192,KANDUNGAN,kunyit dan gula,kunyit | gula
+192,JENIS,serbuk,serbuk
+193,KANDUNGAN,"kunyit, jahe, kayu manis, dll",kunyit | jahe | kayu manis | dll
+193,JENIS,pil,pil
+194,KANDUNGAN,"kunyit, jahe, madu, dll",kunyit | jahe | madu | dll
+194,JENIS,pil,pil
+195,JENIS,pil,pil
+196,KANDUNGAN,"curcuma rhizoma, zingiberis rhizoma, kaempferiae rhizoma, burmani cortex, languatis rhizoma, dll",curcuma rhizoma | zingiberis rhizoma | kaempferiae rhizoma | burmani cortex | languatis rhizoma | dll
+196,JENIS,serbuk,serbuk
+197,KANDUNGAN,"temulawak 3,75 gram, rimpang jahe 3 gram, kencur 3 gram, kayu manis 2,25 gram, laos 2,70, kopi arabica 0,30 gram",temulawak 3 | 75 gram | rimpang jahe 3 gram | kencur 3 gram | kayu manis 2 | 25 gram | laos 2 | 70 | kopi arabica 0 | 30 gram
+197,JENIS,serbuk,serbuk
+198,KANDUNGAN,"30% Daun Guazumae, 10% Bunga Cengkeh, 15% Rimpang Temulawak, 15% Rimpang Jahe, 15% Kulit Batang Kayu Manis (Cassia), Dan bahan lainnya hingga total 100%.",30% Daun Guazumae | 10% Bunga Cengkeh | 15% Rimpang Temulawak | 15% Rimpang Jahe | 15% Kulit Batang Kayu Manis (Cassia) | bahan lainnya hingga total 100%
+198,JENIS,selai,selai
+199,KANDUNGAN,"Kulit Buah Delima, bubuk Pronojiwo, Majakani,Akar Licorice Acutilobum, Kayu Rapet",Kulit Buah Delima | bubuk Pronojiwo | Majakani | Akar Licorice Acutilobum | Kayu Rapet
+199,JENIS,pil,pil
+200,KANDUNGAN,"Temu Rapet, Manjakani, Kunyit, Kayu Rapet, Kencur",Temu Rapet | Manjakani | Kunyit | Kayu Rapet | Kencur
+200,JENIS,pil,pil
+201,KANDUNGAN,"kencur, jahe, kunyit, dan sereh",kencur | jahe | kunyit | sereh
+201,JENIS,pil,pil
+202,KANDUNGAN,"Kunyit, Temulawak, Kencur, Daun gambir",Kunyit | Temulawak | Kencur | Daun gambir
+202,JENIS,pil,pil
+203,KANDUNGAN,"temulawak, kulit buah delima putih, daun sirih, temu kunci",temulawak | kulit buah delima putih | daun sirih | temu kunci
+203,JENIS,pil,pil
+204,KANDUNGAN,"Rimpang Kunyit,Rimpang Temulawak, Rimpang Lengkuas,Buah Kabesak",Rimpang Kunyit | Rimpang Temulawak | Rimpang Lengkuas | Buah Kabesak
+204,JENIS,pil,pil
+205,KANDUNGAN,zaitun,zaitun
+205,JENIS,cair,cair
+206,KANDUNGAN,"Biji Benalu,batang tumbuhan, biji pinang 20%, kulit kering 20% Dan bahan lain sampai 100%",Biji Benalu | batang tumbuhan | biji pinang 20% | kulit kering 20% | bahan lain sampai 100%
+206,JENIS,pil,pil
+207,KANDUNGAN,"Areca Catechu Fructus, Boesenbergiae Rotunda Rhizoma, Curcuma Longa Rhizoma, Garcinia Mangostana Pericarpium, Kaempferia Angustifolia Rhizoma, Punica Granatum Pericarpium, Quercus Infectoria Fructus",Areca Catechu Fructus | Boesenbergiae Rotunda Rhizoma | Curcuma Longa Rhizoma | Garcinia Mangostana Pericarpium | Kaempferia Angustifolia Rhizoma | Punica Granatum Pericarpium | Quercus Infectoria Fructus
+207,JENIS,pil,pil
+208,KANDUNGAN,"Baeckea Frutescens Folium, Curcuma Longa Rhizoma, Curcuma Xanthorriza Rhizoma, Elephantopus Scaber Folium, Foeniculum Vulgare Fructus, Helicteres Isora Fructus, Melastoma Malabathricum Folium, Parkia Roxburghii Semen, Phyllanthus Urinaria Linn",Baeckea Frutescens Folium | Curcuma Longa Rhizoma | Curcuma Xanthorriza Rhizoma | Elephantopus Scaber Folium | Foeniculum Vulgare Fructus | Helicteres Isora Fructus | Melastoma Malabathricum Folium | Parkia Roxburghii Semen | Phyllanthus Urinaria Linn
+208,JENIS,kapsul,kapsul
+209,KANDUNGAN,"Boesenbergiae Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Kaempferia Angustifolia Rhizoma, Parameria Laevigata Cortex, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Terminalia Chebulia Fructus",Boesenbergiae Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Kaempferia Angustifolia Rhizoma | Parameria Laevigata Cortex | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Terminalia Chebulia Fructus
+209,JENIS,pil,pil
+210,KANDUNGAN,"Boesenbergiae Rotunda Rhizoma, Citrus Sinensis Fructus Cortex, Kaempferia Angustifolia Rhizoma, Parameria Laevigata Cortex, Quercus Infectoria Fructus, Terminalia Bellirica Fructus, Terminallia Bellerica Fructus",Boesenbergiae Rotunda Rhizoma | Citrus Sinensis Fructus Cortex | Kaempferia Angustifolia Rhizoma | Parameria Laevigata Cortex | Quercus Infectoria Fructus | Terminalia Bellirica Fructus | Terminallia Bellerica Fructus
+210,JENIS,pil,pil
+211,KANDUNGAN,Cassia Angustifolia Folium,Cassia Angustifolia Folium
+211,JENIS,pil,pil
+212,KANDUNGAN,"kunyit, temu gunung sentok, temulawak",kunyit | temu gunung sentok | temulawak
+212,JENIS,pil,pil
+213,KANDUNGAN,"jamu asi, param atas, param bawah, cebokan, dupa, godokan temulawak, jamu 40hari tapel pales",jamu asi | param atas | param bawah | cebokan | dupa | godokan temulawak | jamu 40hari tapel pales
+213,JENIS,pil,pil
+214,KANDUNGAN,"jamu asi, param atas, param bawah, cebokan, dupa, godokan temulawak, jamu 40hari tapel pales",jamu asi | param atas | param bawah | cebokan | dupa | godokan temulawak | jamu 40hari tapel pales
+214,JENIS,serbuk,serbuk
+215,KANDUNGAN,"Alyxia Stellata Cortex, Baeckea Frutescens Folium, Cinnamomum Burmanii Cortex, Curcuma Longa Rhizoma, Curcuma Xanthorrhiza Rhizoma, Foeniculum Vulgare Semen, Kaempferia Galanga Rhizoma, Nigella Sativa Semen, Piper Cubeba Fructus, Trigonellae Foenum Graecum",Alyxia Stellata Cortex | Baeckea Frutescens Folium | Cinnamomum Burmanii Cortex | Curcuma Longa Rhizoma | Curcuma Xanthorrhiza Rhizoma | Foeniculum Vulgare Semen | Kaempferia Galanga Rhizoma | Nigella Sativa Semen | Piper Cubeba Fructus | Trigonellae Foenum Graecum
+215,JENIS,Serbuk/pil,Serbuk | pil
+216,KANDUNGAN,"susu, daun pandan",susu | daun pandan
+216,JENIS,serbuk,serbuk
+217,KANDUNGAN,"Curcuma xanthorrhiza Rhizoma 46 mg, Curcuma longa Rhizoma 23 mg, Piper cubeba Fructus 23 Mg, dlln",Curcuma xanthorrhiza Rhizoma 46 mg | Curcuma longa Rhizoma 23 mg | Piper cubeba Fructus 23 Mg | dlln
+217,JENIS,pil,pil
+218,KANDUNGAN,"Boesen Bergia Rotunda, Areca Catechu Piper Betle.",Boesen Bergia Rotunda | Areca Catechu Piper Betle
+218,JENIS,kapsul,kapsul
+219,KANDUNGAN,"kunci, temulawak, temu ireng, jahe, dan lain lain",kunci | temulawak | temu ireng | jahe | lain lain
+219,JENIS,pil,pil
+220,KANDUNGAN,"Lempuyang, temulawak, kedaung",Lempuyang | temulawak | kedaung
+220,JENIS,kapsul,kapsul
+221,KANDUNGAN,"Kaemferiae Galanga Rhizoma Ekstrak, Curcuma Xanthoriza Ekstrak, Foeniculum Vulgare Semen Ekstrak, Areca catechu semen ekstrak.",Kaemferiae Galanga Rhizoma Ekstrak | Curcuma Xanthoriza Ekstrak | Foeniculum Vulgare Semen Ekstrak | Areca catechu semen ekstrak
+221,JENIS,kapsul,kapsul
+222,KANDUNGAN,"Kaempferiae Rhizoma Ekstrak, Nigellae Semen Ekstrak, Elephanttropi Radix Ekstak, Andrographidis Ekstrak",Kaempferiae Rhizoma Ekstrak | Nigellae Semen Ekstrak | Elephanttropi Radix Ekstak | Andrographidis Ekstrak
+222,JENIS,kapsul,kapsul
+223,KANDUNGAN,"Cucurma Xanthoriza Rhizoma Ekstrak, Piper Bettel folium ekstrak, Coriandrum satrium semen ekstrak dlln.",Cucurma Xanthoriza Rhizoma Ekstrak | Piper Bettel folium ekstrak | Coriandrum satrium semen ekstrak dlln
+223,JENIS,kapsul,kapsul
+224,KANDUNGAN,"Foeniculli Vulgaree Ekstrak, Curcumae xhantorize ekstrak, Kaemferia rotunda ekstrak.",Foeniculli Vulgaree Ekstrak | Curcumae xhantorize ekstrak | Kaemferia rotunda ekstrak
+224,JENIS,kapsul,kapsul
+225,KANDUNGAN,"Nigela sativa Semen ekstrak, parameria laevigata cortex ekstrak, citrus hystrix cortex ekstrak.",Nigela sativa Semen ekstrak | parameria laevigata cortex ekstrak | citrus hystrix cortex ekstrak
+225,JENIS,pil,pil
+226,KANDUNGAN,"Rheum Officinale, cucumae Xanthoriza, Massoia Aromatica, Curcuma zedoria, Piper betie.",Rheum Officinale | cucumae Xanthoriza | Massoia Aromatica | Curcuma zedoria | Piper betie
+226,JENIS,kapsul,kapsul
+227,KANDUNGAN,"Alyxia stelata cortex ekstrak, Curcuma xanthoriza Ekstrak, Alpinia Galanga rhizoma ekstrak, Foeniculum vulgare semen ekstrak.",Alyxia stelata cortex ekstrak | Curcuma xanthoriza Ekstrak | Alpinia Galanga rhizoma ekstrak | Foeniculum vulgare semen ekstrak
+227,JENIS,pil,pil
+228,KANDUNGAN,"akar wangi, temulawak, serai wangi",akar wangi | temulawak | serai wangi
+228,JENIS,serbuk,serbuk
+229,KANDUNGAN,"Sodium Hidroxide, Milk Lipid, Kalium Aluminium Sulfat, Fatty Acid, Coconut Oil, Olive Oil, Parfum.",Sodium Hidroxide | Milk Lipid | Kalium Aluminium Sulfat | Fatty Acid | Coconut Oil | Olive Oil | Parfum
+229,JENIS,sabun,sabun
+230,KANDUNGAN,"temu kunci, kulit jeruk, kunci pepet",temu kunci | kulit jeruk | kunci pepet
+230,JENIS,pil,pil
+231,KANDUNGAN,jinten hitam,jinten hitam
+231,JENIS,pil,pil
+232,KANDUNGAN,zaitun,zaitun
+232,JENIS,pil,pil
+233,KANDUNGAN,"minyak atsiri tumbuhan, lilin lebah, dan serbuk sari",minyak atsiri tumbuhan | lilin lebah | serbuk sari
+233,JENIS,cair,cair
+234,KANDUNGAN,"ketan hitam, temulawak, daun pandan",ketan hitam | temulawak | daun pandan
+234,JENIS,serbuk,serbuk
+235,KANDUNGAN,"Zingiberis Rhizoma, Rhei Radix, Myristiae Semen, Crytocarlae Aromaticae, Curcuma Phirama, dlln",Zingiberis Rhizoma | Rhei Radix | Myristiae Semen | Crytocarlae Aromaticae | Curcuma Phirama | dlln
+235,JENIS,pil,pil
+236,KANDUNGAN,"Daun sirih, Manjakani, Delima putih, Pharameriae cortex, Callae, Gausumae folium.",Daun sirih | Manjakani | Delima putih | Pharameriae cortex | Callae | Gausumae folium
+236,JENIS,tongkat,tongkat
+237,KANDUNGAN,"Curcuma Doministica Rhizoma, Curcumae Xanthoriza, Carisa Papaya, Kaempferia Aeguginosa , dlln",Curcuma Doministica Rhizoma | Curcumae Xanthoriza | Carisa Papaya | Kaempferia Aeguginosa | dlln
+237,JENIS,pil,pil
+238,KANDUNGAN,"Kaempferia angustifolia, pamaria barbata, quercus lusitanica, aqua, etanol, pharfum",Kaempferia angustifolia | pamaria barbata | quercus lusitanica | aqua | etanol | pharfum
+238,JENIS,cair,cair
+239,KANDUNGAN,rempah,rempah
+239,JENIS,serbuk,serbuk
+240,KANDUNGAN,"zingiberis rhizoma, areca catechu, royal jelly",zingiberis rhizoma | areca catechu | royal jelly
+240,JENIS,pil,pil
+241,KANDUNGAN,"kunyit, jahe, temulawak, kencur, pegagan",kunyit | jahe | temulawak | kencur | pegagan
+241,JENIS,serbuk,serbuk
+242,KANDUNGAN,fermentasi bawang putih,fermentasi bawang putih
+242,JENIS,pil,pil
+243,KANDUNGAN,"Alyxia Stellata Cortex, Areca Catechu Semen, Curcuma Xanthorriza Rhizoma, Foeniculum Vulgare Fructus, Nigella Sativa Semen, Parameriae Laevigata Lignum, Piper Retrofractum Vahl, Quercus Infectoria Fructus, Trigonella Foenum Graecum, Zingiber Officinale Rhizome, Zingiber Zerumbet Rhizoma,",Alyxia Stellata Cortex | Areca Catechu Semen | Curcuma Xanthorriza Rhizoma | Foeniculum Vulgare Fructus | Nigella Sativa Semen | Parameriae Laevigata Lignum | Piper Retrofractum Vahl | Quercus Infectoria Fructus | Trigonella Foenum Graecum | Zingiber Officinale Rhizome | Zingiber Zerumbet Rhizoma
+243,JENIS,pil,pil
+244,KANDUNGAN,"jahe, ginseng, tongkat ali, beras kencur",jahe | ginseng | tongkat ali | beras kencur
+244,JENIS,pil,pil
+245,KANDUNGAN,"jinten, kapulaga, cabe jamu, kencur dll",jinten | kapulaga | cabe jamu | kencur dll
+245,JENIS,cair,cair
+246,KANDUNGAN,"Temu lawak, kunyit, kencur, jahe, temu kunci, lengkuas, lampojang, daun sirih, daun ciplukan",Temu lawak | kunyit | kencur | jahe | temu kunci | lengkuas | lampojang | daun sirih | daun ciplukan
+246,JENIS,serbuk,serbuk
+247,KANDUNGAN,"Lemon, jeruk sunkist, kunir, jahe, madu",Lemon | jeruk sunkist | kunir | jahe | madu
+247,JENIS,cair,cair
+248,KANDUNGAN,"Syzgium Polyanthum, Moringa Oleifera, Cymbopogon Citratus, Ziniber offcinale, Morinda Citrifolia, dll",Syzgium Polyanthum | Moringa Oleifera | Cymbopogon Citratus | Ziniber offcinale | Morinda Citrifolia | dll
+248,JENIS,cair,cair
+249,KANDUNGAN,"Gingseng, tribulus, buah pinang, kopi houseblend",Gingseng | tribulus | buah pinang | kopi houseblend
+249,JENIS,serbuk,serbuk
+250,KANDUNGAN,"Kayu rapet, manjakani, delima putih, racikan rimpang",Kayu rapet | manjakani | delima putih | racikan rimpang
+250,JENIS,serbuk,serbuk
+251,KANDUNGAN,"Pinang, Ginseng, Jintan Hitam, Jahe, dll",Pinang | Ginseng | Jintan Hitam | Jahe | dll
+251,JENIS,serbuk,serbuk
+252,KANDUNGAN,"Jintan Hitam, Ginseng, Merica, Jahe, Laos",Jintan Hitam | Ginseng | Merica | Jahe | Laos
+252,JENIS,serbuk,serbuk
+253,KANDUNGAN,"Ekstrak manjakani, kayu rapet, buah pinang, kunyit, jeruk",Ekstrak manjakani | kayu rapet | buah pinang | kunyit | jeruk
+253,JENIS,serbuk,serbuk
+254,KANDUNGAN,"Kaemferia Angustivolia, Curcumae Domestica, Foeniculum Vulgare, Quercus Granatum, Kaemferia Galanga",Kaemferia Angustivolia | Curcumae Domestica | Foeniculum Vulgare | Quercus Granatum | Kaemferia Galanga
+254,JENIS,kapsul,kapsul
+255,KANDUNGAN,"ekstrak daun sirih, ekstrak manjakani, ekstrak kayu rapet",ekstrak daun sirih | ekstrak manjakani | ekstrak kayu rapet
+255,JENIS,cair,cair
+256,KANDUNGAN,Madu dan rempah lain,Madu | rempah lain
+256,JENIS,serbuk,serbuk
+257,KANDUNGAN,"Custuae semen, terminalis hizoma, Areca semen, Cinamomum Cortex",Custuae semen | terminalis hizoma | Areca semen | Cinamomum Cortex
+257,JENIS,pil,pil
+258,KANDUNGAN,"kulit buah delima, biji euchresta, akar empot ayam",kulit buah delima | biji euchresta | akar empot ayam
+258,JENIS,pil,pil
+259,KANDUNGAN,"manjakani, kayu rapet, sirih, kunyit",manjakani | kayu rapet | sirih | kunyit
+259,JENIS,kapsul,kapsul
+260,KANDUNGAN,"sirih, kayu manis, kulit delima, dan rempah lain",sirih | kayu manis | kulit delima | rempah lain
+260,JENIS,serbuk,serbuk
+261,KANDUNGAN,"kunyit, sirih, dll",kunyit | sirih | dll
+261,JENIS,kapsul,kapsul
+262,KANDUNGAN,1. Elphantopi Folium 2. Tinosporae Coulis 3. Marremioe Mommos Radis 4. Aegle Mamelos Cors 5. Ruta Angustilolis 6. Bahan Lain Hingga 100%,1. Elphantopi Folium 2. Tinosporae Coulis 3. Marremioe Mommos Radis 4. Aegle Mamelos Cors 5. Ruta Angustilolis 6. Bahan Lain Hingga 100%
+262,JENIS,kapsul,kapsul
+263,KANDUNGAN,"Kubeba, Jahe, Jintan hitam, kemukus, kapulaga, jintan putih, fenugreek",Kubeba | Jahe | Jintan hitam | kemukus | kapulaga | jintan putih | fenugreek
+263,JENIS,kapsul,kapsul
+264,KANDUNGAN,"temulawak, jahe, kencur dan bahan lain",temulawak | jahe | kencur | bahan lain
+264,JENIS,serbuk,serbuk
+265,KANDUNGAN,"kunci pepet, kayu rapet, kulit dan buah delima putih",kunci pepet | kayu rapet | kulit | buah delima putih
+265,JENIS,kapsul,kapsul
+266,KANDUNGAN,"jahe, kunyit, daun sendok, cabe jawa, temulawak",jahe | kunyit | daun sendok | cabe jawa | temulawak
+266,JENIS,serbuk,serbuk
+267,KANDUNGAN,Cuscutae semen (untuk vita*litas pria) 20% • Terminalis rhizoma (batang tumbuhan) 20% • Areca semen (biji pinang) 20% • Cinnamomum cortex (kulit kering ) 20% Dan bahan lain sampai 100%,Cuscutae semen (untuk vita*litas pria) 20% • Terminalis rhizoma (batang tumbuhan) 20% • Areca semen (biji pinang) 20% • Cinnamomum cortex (kulit kering ) 20% | bahan lain sampai 100%
+267,JENIS,kapsul,kapsul
+268,KANDUNGAN,daun sirih,daun sirih
+268,JENIS,serbuk,serbuk
+269,KANDUNGAN,"Temu kunci, jahe merah, kapulaga, sari buah pinang, kayu manis,",Temu kunci | jahe merah | kapulaga | sari buah pinang | kayu manis
+269,JENIS,serbuk,serbuk
+270,KANDUNGAN,"Gingseng dan Tribulus, Buah Pinang, Kopi Houseblend",Gingseng | Tribulus | Buah Pinang | Kopi Houseblend
+270,JENIS,serbuk,serbuk
+271,KANDUNGAN,"madu, temulawak, jinten hitam, madu",madu | temulawak | jinten hitam | madu
+271,JENIS,kapsul,kapsul
+272,KANDUNGAN,"Jinten Hitam, Keningar, jahe, Cengkeh, Temulawak",Jinten Hitam | Keningar | jahe | Cengkeh | Temulawak
+272,JENIS,kapsul,kapsul
+273,KANDUNGAN,"massola aromatic, guazamae, folium, nigella semen",massola aromatic | guazamae | folium | nigella semen
+273,JENIS,pil,pil
+274,KANDUNGAN,"gingseng, madu, merica hitam,jahe, jinten dll",gingseng | madu | merica hitam | jahe | jinten dll
+274,JENIS,serbuk,serbuk
+275,JENIS,tongkat,tongkat
+276,JENIS,serbuk,serbuk
+278,JENIS,kapsul,kapsul
+279,JENIS,cair,cair
+280,JENIS,krim,krim
+281,JENIS,kapsul,kapsul
+282,JENIS,pil,pil
+285,JENIS,kapsul,kapsul
+286,JENIS,kapsul,kapsul
+287,JENIS,serbuk,serbuk
+288,JENIS,serbuk,serbuk
+289,JENIS,pil,pil
+290,KANDUNGAN,"Quercus infectoria fructus, areca catechu fructus. citrus sinensis fructus, mel depuratum, oleum olea europaea fructus, extra virgin olive oil",Quercus infectoria fructus | areca catechu fructus. citrus sinensis fructus | mel depuratum | oleum olea europaea fructus | extra virgin olive oil
+290,JENIS,pil,pil
+292,JENIS,pil,pil
+294,JENIS,cair,cair
+295,JENIS,cair,cair
+296,JENIS,cair,cair
+297,JENIS,cair,cair
+299,JENIS,minyak oles,minyak oles
+302,KANDUNGAN,"temu lawak, jahe, kunyit,",temu lawak | jahe | kunyit
+302,JENIS,serbuk,serbuk
+303,KANDUNGAN,"jahe , sambiroto, jahe merah, cabe jamu, lengkuas, jahe kuning",jahe | sambiroto | jahe merah | cabe jamu | lengkuas | jahe kuning
+303,JENIS,serbuk,serbuk
+304,KANDUNGAN,", sambiroto, jahe kuning , kunyit, piang mudah",sambiroto | jahe kuning | kunyit | piang mudah
+304,JENIS,kapsul,kapsul
+305,KANDUNGAN,habastusauda yg halus,habastusauda yg halus
+305,JENIS,minyak oles,minyak oles
+306,KANDUNGAN,rumput koming saebu dan minyak,rumput koming saebu | minyak
+306,JENIS,cair,cair
+307,KANDUNGAN,"daun sirsak, kunyit putih, daun kersen, akar pohon litiklitik",daun sirsak | kunyit putih | daun kersen | akar pohon litiklitik
+307,JENIS,cair,cair
+308,KANDUNGAN,"bunga melati, bunga mawar, dauntiklitik",bunga melati | bunga mawar | dauntiklitik
+308,JENIS,cair,cair
+309,KANDUNGAN,"Benalu pohom kelor, jeruk nipis, kunyit putih, kulit pohon kelubur, daun kasa",Benalu pohom kelor | jeruk nipis | kunyit putih | kulit pohon kelubur | daun kasa
+309,JENIS,cair,cair
+311,KANDUNGAN,"cassia angustifolia, folium, mel depuratum, natrium benzoat, minyak zaitun",cassia angustifolia | folium | mel depuratum | natrium benzoat | minyak zaitun
+311,JENIS,pil,pil
+312,KANDUNGAN,"curcuma longa rhizoma, baeckea frustescens follium, phyllanthus urinaria follium, foeniculum vulgare fructus, melastoma malabathricum follium, parkia roxburghil semen, curcuma xanthorriza rhizoma, elephantopus scaber folllium, helictores isora fructus, mel depuratum, natrium benzoat, oleum olea erupaea fructus",curcuma longa rhizoma | baeckea frustescens follium | phyllanthus urinaria follium | foeniculum vulgare fructus | melastoma malabathricum follium | parkia roxburghil semen | curcuma xanthorriza rhizoma | elephantopus scaber folllium | helictores isora fructus | mel depuratum | natrium benzoat | oleum olea erupaea fructus
+312,JENIS,pil,pil
+322,KANDUNGAN,"Granati cortex, Eushrestae semen, Quercus gallae, Liquisticum acutilobumae radix, Paraemeriae cortex,",Granati cortex | Eushrestae semen | Quercus gallae | Liquisticum acutilobumae radix | Paraemeriae cortex

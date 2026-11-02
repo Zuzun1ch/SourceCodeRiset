@@ -1,0 +1,22 @@
+qid,question,relevant_ids,n_relevant,ner_spans,reference_answer,qtype
+1001,Jamu apa yang mengandung kunyit?,1|2|3|4|6|17|27|31|33|42|58|59|70|73|74|79|81|82|83|86|87|97|107|111|121|124|140|153|154|155|181|184|185|192|193|194|200|201|202|212|241|246|253|259|261|266|302|304,48,KANDUNGAN:kunyit,Jamu yang mengandung kunyit,kandungan
+1002,Jamu apa yang mengandung jahe?,5|30|33|44|46|47|50|58|59|62|63|64|65|67|71|72|80|81|82|83|84|107|110|115|153|154|157|185|187|190|193|194|201|219|241|244|246|247|251|252|263|264|266|272|274|302|303,47,KANDUNGAN:jahe,Jamu yang mengandung jahe,kandungan
+1003,Jamu apa yang mengandung temulawak?,5|17|33|58|64|73|78|86|107|112|140|152|153|154|155|185|202|203|212|219|220|228|234|241|264|266|271|272,28,KANDUNGAN:temulawak,Jamu yang mengandung temulawak,kandungan
+1004,Jamu apa yang mengandung daun sirih?,3|4|8|10|11|55|58|62|63|65|66|67|74|114|153|175|181|186|203|236|246|268,22,KANDUNGAN:daun sirih,Jamu yang mengandung daun sirih,kandungan
+1005,Jamu apa yang mengandung kapulaga?,44|47|50|68|76|77|78|79|80|84|184|188|245|263|269,15,KANDUNGAN:kapulaga,Jamu yang mengandung kapulaga,kandungan
+1006,Jamu apa yang mengandung dll?,94|125|136|141|179|184|186|187|193|194|196|248|251|261,14,KANDUNGAN:dll,Jamu yang mengandung dll,kandungan
+1007,Jamu apa yang mengandung gula?,76|77|78|79|83|110|111|112|113|114|116|117|192,13,KANDUNGAN:gula,Jamu yang mengandung gula,kandungan
+1008,Jamu apa yang mengandung pinang muda?,4|8|62|63|67|69|71|75|80|83|84|154,12,KANDUNGAN:pinang muda,Jamu yang mengandung pinang muda,kandungan
+1009,Jamu jenis pil apa saja?,1|2|3|4|5|6|7|8|14|16|17|23|24|25|29|30|31|35|36|37|40|42|43|44|45|46|48|50|52|55|56|57|59|60|85|86|87|88|89|90|92|94|95|96|98|99|100|102|103|104|105|106|107|118|119|120|122|123|124|125|126|127|128|129|130|131|132|133|134|135|136|139|159|163|164|167|179|180|182|193|194|195|199|200|201|202|203|204|206|207|209|210|211|212|213|215|217|219|225|227|230|231|232|235|237|240|242|243|244|257|258|273|282|289|290|292|311|312,118,JENIS:pil,Jamu jenis pil,jenis
+1010,Jamu jenis serbuk apa saja?,10|13|15|21|22|34|39|41|51|54|58|68|69|70|71|72|73|74|75|76|77|78|79|80|91|93|97|110|111|112|114|117|138|141|147|148|149|150|152|153|154|155|156|157|158|169|170|171|173|174|181|192|196|197|214|215|216|228|234|239|241|246|249|250|251|252|253|256|260|264|266|268|269|270|274|276|287|288|302|303,80,JENIS:serbuk,Jamu jenis serbuk,jenis
+1011,Jamu jenis cair apa saja?,9|11|12|18|19|20|26|38|53|61|62|63|64|65|66|67|81|82|83|84|108|113|115|116|137|172|175|177|178|188|205|233|238|245|247|248|255|279|294|295|296|297|306|307|308|309,46,JENIS:cair,Jamu jenis cair,jenis
+1012,Jamu jenis kapsul apa saja?,47|49|109|121|145|146|151|160|161|162|165|166|168|183|184|185|186|187|189|191|208|218|220|221|222|223|224|226|254|259|261|262|263|265|267|271|272|278|281|285|286|304,42,JENIS:kapsul,Jamu jenis kapsul,jenis
+1013,Jamu yang mengandung kunyit untuk asam urat?,266,1,KANDUNGAN:kunyit | asam urat,Jamu yang mengandung kunyit untuk asam urat,kombinasi
+1014,Jamu yang mengandung kunyit untuk menurunkan kolesterol?,42|185,2,KANDUNGAN:kunyit | menurunkan kolesterol,Jamu yang mengandung kunyit untuk menurunkan kolesterol,kombinasi
+1015,Jamu yang mengandung jahe untuk asam urat?,110|187|264|266,4,KANDUNGAN:jahe | asam urat,Jamu yang mengandung jahe untuk asam urat,kombinasi
+1016,Jamu yang mengandung jahe untuk menurunkan kolesterol?,115|185|303,3,KANDUNGAN:jahe | menurunkan kolesterol,Jamu yang mengandung jahe untuk menurunkan kolesterol,kombinasi
+1017,Jamu yang mengandung jahe untuk batuk dan pilek?,190,1,KANDUNGAN:jahe | batuk dan pilek,Jamu yang mengandung jahe untuk batuk dan pilek,kombinasi
+1018,Jamu yang mengandung temulawak untuk asam urat?,264|266,2,KANDUNGAN:temulawak | asam urat,Jamu yang mengandung temulawak untuk asam urat,kombinasi
+1019,Jamu jenis pil untuk asam urat?,98,1,JENIS:pil | asam urat,Jamu jenis pil untuk asam urat,kombinasi
+1020,Jamu jenis pil untuk menurunkan kolesterol?,42|98|119|242,4,JENIS:pil | menurunkan kolesterol,Jamu jenis pil untuk menurunkan kolesterol,kombinasi
+1021,Jamu jenis pil untuk batuk dan pilek?,88|232,2,JENIS:pil | batuk dan pilek,Jamu jenis pil untuk batuk dan pilek,kombinasi

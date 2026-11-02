@@ -1,0 +1,7 @@
+Set uji,Entitas,Precision,Recall,F1,Support
+Test: dataset + sintetis,KHASIAT,0.996,1.0,0.998,252
+Test: dataset + sintetis,KANDUNGAN,0.8986,0.9841,0.9394,252
+Test: dataset + sintetis,JENIS,1.0,1.0,1.0,53
+Pertanyaan tulisan tangan,KHASIAT,0.7143,0.7143,0.7143,28
+Pertanyaan tulisan tangan,KANDUNGAN,1.0,1.0,1.0,14
+Pertanyaan tulisan tangan,JENIS,1.0,1.0,1.0,7

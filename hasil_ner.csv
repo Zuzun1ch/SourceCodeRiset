@@ -1,0 +1,3 @@
+Set uji,n,Precision,Recall,F1
+Test: dataset + sintetis,241,0.9502,0.9928,0.971
+Pertanyaan tulisan tangan,39,0.8367,0.8367,0.8367
